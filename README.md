@@ -15,5 +15,4 @@ This project implements a Deep Convolutional GAN (DCGAN) to generate realistic a
 - NumPy, Matplotlib
 - Jupyter Notebook
 
-## 📁 Folder Structure
 
